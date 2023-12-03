@@ -1,0 +1,4 @@
+ahmet->hello
+ahmet:hello
+ahmet->naberrr 
+ahmet:naberrr 
